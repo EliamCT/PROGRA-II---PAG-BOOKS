@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Migrations\\20251120071320_AddIsDeletedColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MvcBooks\\Migrations\\20251120071320_AddIsDeletedColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|c:\\users\\eliam\\desktop\\pagina web books\\mvcbooks\\mvcbooks\\views\\books\\recycle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|solutionrelative:mvcbooks\\views\\books\\recycle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|c:\\users\\eliam\\desktop\\pagina web books\\mvcbooks\\mvcbooks\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|solutionrelative:mvcbooks\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|c:\\users\\eliam\\desktop\\pagina web books\\mvcbooks\\mvcbooks\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|solutionrelative:mvcbooks\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|c:\\users\\eliam\\desktop\\pagina web books\\mvcbooks\\mvcbooks\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|solutionrelative:mvcbooks\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|c:\\users\\eliam\\desktop\\pagina web books\\mvcbooks\\mvcbooks\\data\\bookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|solutionrelative:mvcbooks\\data\\bookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|c:\\users\\eliam\\desktop\\pagina web books\\mvcbooks\\mvcbooks\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|solutionrelative:mvcbooks\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|c:\\users\\eliam\\desktop\\pagina web books\\mvcbooks\\mvcbooks\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|solutionrelative:mvcbooks\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|c:\\users\\eliam\\desktop\\pagina web books\\mvcbooks\\mvcbooks\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|solutionrelative:mvcbooks\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|c:\\users\\eliam\\desktop\\pagina web books\\mvcbooks\\mvcbooks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|solutionrelative:mvcbooks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|c:\\users\\eliam\\desktop\\pagina web books\\mvcbooks\\mvcbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|solutionrelative:mvcbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|c:\\users\\eliam\\desktop\\pagina web books\\mvcbooks\\mvcbooks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|solutionrelative:mvcbooks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|c:\\users\\eliam\\desktop\\pagina web books\\mvcbooks\\mvcbooks\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|solutionrelative:mvcbooks\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|c:\\users\\eliam\\desktop\\pagina web books\\mvcbooks\\mvcbooks\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|solutionrelative:mvcbooks\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|c:\\users\\eliam\\desktop\\pagina web books\\mvcbooks\\mvcbooks\\migrations\\20251120053741_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4D8607-D00D-464B-9ED7-E9E8F76D3602}|MvcBooks\\MvcBooks.csproj|solutionrelative:mvcbooks\\migrations\\20251120053741_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251120071320_AddIsDeletedColumn.cs",
+              "DocumentMoniker": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Migrations\\20251120071320_AddIsDeletedColumn.cs",
+              "RelativeDocumentMoniker": "MvcBooks\\Migrations\\20251120071320_AddIsDeletedColumn.cs",
+              "ToolTip": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Migrations\\20251120071320_AddIsDeletedColumn.cs",
+              "RelativeToolTip": "MvcBooks\\Migrations\\20251120071320_AddIsDeletedColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:13:20.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recycle.cshtml",
+              "DocumentMoniker": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Views\\Books\\Recycle.cshtml",
+              "RelativeDocumentMoniker": "MvcBooks\\Views\\Books\\Recycle.cshtml",
+              "ToolTip": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Views\\Books\\Recycle.cshtml",
+              "RelativeToolTip": "MvcBooks\\Views\\Books\\Recycle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T07:11:01.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcBooks\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "MvcBooks\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T05:44:33.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251120053741_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Migrations\\20251120053741_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MvcBooks\\Migrations\\20251120053741_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Migrations\\20251120053741_InitialCreate.cs",
+              "RelativeToolTip": "MvcBooks\\Migrations\\20251120053741_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:37:42.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "MvcBooks\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "MvcBooks\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:34:30.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcBooks\\appsettings.json",
+              "ToolTip": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\appsettings.json",
+              "RelativeToolTip": "MvcBooks\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T05:20:58.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "MvcBooks\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Data\\SeedData.cs",
+              "RelativeToolTip": "MvcBooks\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:06:23.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MvcBooks\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "MvcBooks\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T06:02:07.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcBooks\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "MvcBooks\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T05:58:38.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Program.cs",
+              "RelativeDocumentMoniker": "MvcBooks\\Program.cs",
+              "ToolTip": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Program.cs",
+              "RelativeToolTip": "MvcBooks\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwCoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:21:33.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcBooks\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcBooks\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowDwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T06:11:44.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "MvcBooks\\Models\\Books.cs",
+              "ToolTip": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Models\\Books.cs",
+              "RelativeToolTip": "MvcBooks\\Models\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:16:38.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksContext.cs",
+              "DocumentMoniker": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Data\\BooksContext.cs",
+              "RelativeDocumentMoniker": "MvcBooks\\Data\\BooksContext.cs",
+              "ToolTip": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Data\\BooksContext.cs",
+              "RelativeToolTip": "MvcBooks\\Data\\BooksContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:20:09.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "MvcBooks\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "MvcBooks\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T05:51:01.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcBooks\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\eliam\\Desktop\\PAGINA WEB BOOKS\\MvcBooks\\MvcBooks\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "MvcBooks\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T05:57:27.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
